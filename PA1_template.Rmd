@@ -1,5 +1,8 @@
 ---
-title: 'Reproducible Research: Peer Assessment 1'
+title: "Reproducible Research: Peer Assessment 1"
+output: html_document
+author: "Sriharsha M S"
+html_document: "PA1_template.html"
 ---
 
 It is now possible to collect a large amount of data about personal
